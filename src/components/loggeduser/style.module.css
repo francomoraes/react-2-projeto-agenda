@@ -1,0 +1,21 @@
+.contactsLinks {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.contactsList {
+    width: 480px;
+    display: block;
+    margin: 0 auto;
+}
+
+.title, .subtitle {
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    margin: 0 auto;
+    padding: 10px;
+}
+

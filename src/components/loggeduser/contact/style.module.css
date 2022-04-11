@@ -1,0 +1,8 @@
+.contactData {
+    border: 1px solid red;
+    background-color: lightgray;
+    width: 200px;
+    height: 350px;
+    font-size: 12px;
+    margin: 0 auto;
+}

@@ -1,0 +1,82 @@
+.wrapperContacts {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(117, 117, 117);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.button {
+    width: 95%;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.input{
+    box-sizing: border-box;
+    padding: 16px;
+}
+.contactsLinks {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    border: 1px solid green;
+    width: 90%;
+    min-width: 400px;
+    height: 350px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.contactsList {
+    width: 480px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 16px;
+    background-color: #333;
+    width: 30%;
+    min-width: 400px;
+    padding: 10px;
+}
+
+.title, .subtitle {
+    text-align: center;
+}
+
+.h3 {
+    width: 100%;
+    text-align: center;
+}
+
+.listItem{
+    list-style: none;
+}
+
+.ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.itemWrapper{
+    display: flex;
+    flex-wrap: row wrap;
+    align-items: center;
+    margin: 10px;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(117, 117, 117);
+}
+
+.imagemDeContato {
+    width: 100px;
+    border-radius: 8px;
+    padding: 5px;
+}

@@ -1,0 +1,53 @@
+.divWrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(117, 117, 117);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 480px;
+}
+
+.label {
+    width: 100%;
+    margin: 5px;
+    padding: 5px;
+}
+
+.labelSubtitulo {
+    width: 100%;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.h1 {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    background-color: rgb(143, 176, 165);
+    margin: 0 auto;
+    height: 60px;
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    border-radius: 4px;
+    height: 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+}
+
+button {
+    width: 95%;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    margin-top: 30px;
+    font-size: 16px;
+}
