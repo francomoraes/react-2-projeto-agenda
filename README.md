@@ -1,4 +1,3 @@
-# Aplicação para Montagem de Sanduíches
 # Lets Code - WebFullStack Módulo 7: React II
 
 ## Proposta do Teste
